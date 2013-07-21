@@ -8,7 +8,7 @@ class GalleryDBConfig
 static $server_name = "kasadelic-db.my.phpcloud.com";
 static $db_name = "kasadelic";
 static $db_username = "kasadelic";
-static $db_password = "mepadre$77";
+static $db_password = "**********";
 static $port = 3306;
 }
 
